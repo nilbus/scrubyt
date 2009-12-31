@@ -74,16 +74,12 @@ result pages. Not so bad for about 10 lines of code, eh?
 You can find everything you will need at these addresses (or if not, I doubt you will find it elsewhere...). See the 
 next section about installation, and after installing be sure to check out these URLs:
 
-* <a href='http://www.rubyrailways.com'>rubyrailways.com</a> - for some theory; if you would like to take a sneak peek 
-at web scraping in general and/or you would like to understand what's going on under the hood, check out <a 
-href='http://www.rubyrailways.com/data-extraction-for-web-20-screen-scraping-in-rubyrails'>this article about 
-web-scraping</a>!
-* <a href='http://scrubyt.org'>http://scrubyt.org</a> - your source of tutorials, howtos, news etc.
-* <a href='http://scrubyt.rubyforge.org'>scrubyt.rubyforge.org</a> - for an up-to-date, online Rdoc
-* <a href='http://projects.rubyforge.org/scrubyt'>projects.rubyforge.org/scrubyt</a> - for developer info, including 
-open and closed bugs, files etc.
-* projects.rubyforge.org/scrubyt/files... - fair amount (and still growing with every release) of examples, showcasing 
-the features of scRUBYt!
+* http://www.rubyrailways.com - for some theory; if you would like to take a sneak peek 
+at web scraping in general and/or you would like to understand what's going on under the hood, check out
+this article about web-scraping: http://www.rubyrailways.com/data-extraction-for-web-20-screen-scraping-in-rubyrails
+* http://scrubyt.org - your source of tutorials, howtos, news etc.
+* http://scrubyt.rubyforge.org - for an up-to-date, online Rdoc
+* http://projects.rubyforge.org/scrubyt - for developer info, including open and closed bugs, files etc.
 * planned: public extractor repository - hopefully (after people realize how great this package is :-)) scRUBYt! will 
 have a community, and people will upload their extractors for whatever reason
 
