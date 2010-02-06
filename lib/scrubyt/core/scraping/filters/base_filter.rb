@@ -102,7 +102,7 @@ module Scrubyt
         when /\.(jpg|png|gif|jpeg)(\[\d+\])?$/
           EXAMPLE_TYPE_IMAGE
         when /^\/{1,2}[a-z]+[0-9]?(\[[0-9]+\])?(\/{1,2}[a-z()]+[0-9]?(\[[0-9]+\])?)*(\[@.+=.+\])?(\/@.+)?$/
-         (example.include? '/' || example.include?('[')) ? EXAMPLE_TYPE_XPATH : EXAMPLE_TYPE_STRING
+         (example.include?('/') || example.include?('[')) ? EXAMPLE_TYPE_XPATH : EXAMPLE_TYPE_STRING
         else
           EXAMPLE_TYPE_STRING
         end
