@@ -33,7 +33,7 @@ require "#{File.dirname(__FILE__)}/scrubyt/core/navigation/agents/mechanize.rb"
 begin
   require "#{File.dirname(__FILE__)}/scrubyt/core/navigation/agents/firewatir.rb"
 rescue LoadError
-  puts "The gem firewatir is not installed, you'll be able to use Mechanize as the agent only"
+  #puts "The gem firewatir is not installed, you'll be able to use Mechanize as the agent only"
 end
 # --
 
